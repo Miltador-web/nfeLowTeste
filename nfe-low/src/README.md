@@ -53,7 +53,7 @@ Exemplo de Chamada HTTP:
 ```json
 {
   "razaoSocial": "Exemplo Empresas Ltda",
-  "cnpj": "12345678901234",
+  "cnpj": "19.372.323/0001-34",
   "endereco": "Rua Exemplo, 123",
   "valor": 1000.0,
   "numeroSerie": 111111
@@ -73,7 +73,7 @@ Exemplo de Chamada HTTP:
 ```json
 {
   "razaoSocial": "Exemplo Empresas Ltda",
-  "cnpj": "12345678901234",
+  "cnpj": "19.372.323/0001-34",
   "endereco": "Rua Exemplo, 123",
   "valor": 1000.0,
   "numeroSerie": 111111
@@ -102,7 +102,7 @@ Exemplo de payload JSON para criação de uma NFE:
 ```
 {
 "razaoSocial": "Exemplo Empresas Ltda",
-"cnpj": "12345678901234",
+"cnpj": "19.372.323/0001-34",
 "endereco": "Rua Exemplo, 123",
 "valor": 1000.0,
 "numeroSerie": 1
