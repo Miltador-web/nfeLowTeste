@@ -21,11 +21,11 @@ Exemplo de Chamada HTTP:
 ```
 
 ### Consultar Todas as NFEs
-**GET** `/localhost:8080/api/nfe`
+**GET** `/localhost:8080/api/nfe/`
 
 Exemplo de Chamada HTTP:
 
-#### Endpoint: GET /nfe
+#### Endpoint: GET /nfe/
 
 ###
 

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nfe-low.iml" filepath="$PROJECT_DIR$/.idea/nfe-low.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nfe-low/nfe-low.iml" filepath="$PROJECT_DIR$/nfe-low/nfe-low.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nfeLowTeste.iml" filepath="$PROJECT_DIR$/.idea/nfeLowTeste.iml" />
     </modules>
   </component>
 </project>
